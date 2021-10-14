@@ -1,6 +1,6 @@
-### Hello world 😄
-
-[<img align="left" alt="sebastian.tk | Outlook" width="22px" src="./outlook.svg" />][outlook]
+## Hello world 😄       
+[<img align="left" alt="sebastian.tk | Outlook" width="22px" src="./icon.png" />][outlook]
+<br>
 
 My name is Sebastian and I learn to be a better programmer every day. My serious programming adventure started with Java and I am still learning the new possibilities of this language and the necessary amazing tools that help me create better applications. At this point, I would like to publish new applications that I am working on, in which I try to practice new skills
 
@@ -28,7 +28,7 @@ My name is Sebastian and I learn to be a better programmer every day. My serious
 ![Apache%20Maven](https://img.shields.io/badge/-Apache%20Maven-5C2D91?style=flat&logo=Apache%20Maven&logoColor=white)
 
 
-[gmail]: mailto:sebastian.tkaczykk@outlook.com
+[outlook]: mailto:sebastian.tkaczykk@outlook.com
 
 
 <!--
