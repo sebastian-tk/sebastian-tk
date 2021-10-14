@@ -1,5 +1,5 @@
 ## Hello world 😄       
-[<img align="left" alt="sebastian.tk | Gmail" width="22px" src="./icon.png" />][gmail]
+[<img align="left" alt="sebastian.tk | Gmail" width="22px" src="./gmail.png" />][gmail]
 <br>
 
 My name is Sebastian and I learn to be a better programmer every day. My serious programming adventure started with Java and I am still learning the new possibilities of this language and the necessary amazing tools that help me create better applications. At this point, I would like to publish new applications that I am working on, in which I try to practice new skills
