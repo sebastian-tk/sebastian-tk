@@ -1,5 +1,5 @@
 ## Hello world 😄       
-[<img align="left" alt="sebastian.tk | Outlook" width="22px" src="./icon.png" />][outlook]
+[<img align="left" alt="sebastian.tk | Gmail" width="22px" src="./icon.png" />][gmail]
 <br>
 
 My name is Sebastian and I learn to be a better programmer every day. My serious programming adventure started with Java and I am still learning the new possibilities of this language and the necessary amazing tools that help me create better applications. At this point, I would like to publish new applications that I am working on, in which I try to practice new skills
@@ -28,20 +28,4 @@ My name is Sebastian and I learn to be a better programmer every day. My serious
 ![Apache%20Maven](https://img.shields.io/badge/-Apache%20Maven-5C2D91?style=flat&logo=Apache%20Maven&logoColor=white)
 
 
-[outlook]: mailto:sebastian.tkaczykk@outlook.com
-
-
-<!--
-**sebastian-tk/sebastian-tk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[gmail]: mailto:sebastian.tkaczykk@gmail.com
